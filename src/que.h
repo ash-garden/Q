@@ -2,7 +2,7 @@
  * que.h
  *
  *  Created on: 2019/03/06
- *      Author: hideo
+ *      Author: AshGarden
  */
 
 #ifndef QUE_H_
